@@ -140,7 +140,7 @@ Azure provides storage accounts for storing data in the cloud as blobs, files, q
 
 ◻️ On the Blob blade, select **Generate SAS**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="50%" width="50%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/a7da6891-3630-4da5-b8da-62ab6b63a1c3" height="40%" width="40%" alt="9"/><br />
 <br>
 
 <br>
@@ -288,7 +288,7 @@ Azure provides storage accounts for storing data in the cloud as blobs, files, q
 
 ◻️ Review the error message to verify that the access policy has been successfully revoked.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/58b7c3d0-16eb-4299-98cf-98f7bc21ffc3" height="70%" width="70%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/58b7c3d0-16eb-4299-98cf-98f7bc21ffc3" height="50%" width="50%" alt="9"/><br />
 <br>
 
 <br>
