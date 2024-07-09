@@ -39,14 +39,14 @@ Azure provides storage accounts for storing data in the cloud as blobs, files, q
 
 <br>
 
-◻️ In Search services and marketplace, search for and select ***Storage account***, and then select **Create**.
+◻️ In Search services and marketplace, search for and select ***🆃 Storage account***, and then select **Create**.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/841a28ca-cf3d-41a6-8b4f-1cd1efec6c10" height="40%" width="40%" alt="9"/><br />
 <br>
 
 <br>
 
-◻️ On the Create storage account blade, on the Basics page, in Resource group, select **corp-datalod42241754**, in Storage account name, enter ***stor42241754***, in Redundancy, select **Locally-redundant storage (LRS)**, and then select **Next : Advanced**.
+◻️ On the Create storage account blade, on the Basics page, in Resource group, select **corp-datalod42241754**, in Storage account name, enter ***🆃 stor42241754***, in Redundancy, select **Locally-redundant storage (LRS)**, and then select **Next : Advanced**.
 
 <br>
 
@@ -84,7 +84,7 @@ Azure provides storage accounts for storing data in the cloud as blobs, files, q
 
 <br>
 
-◻️ On the New container blade, in Name, enter ***images***, in Public access level, ensure that **Private (no anonymous access)** is selected, and then select **Create** to create the container.
+◻️ On the New container blade, in Name, enter ***🆃 images***, in Public access level, ensure that **Private (no anonymous access)** is selected, and then select **Create** to create the container.
 
 <br>
 
@@ -194,18 +194,18 @@ Azure provides storage accounts for storing data in the cloud as blobs, files, q
 
 <br>
 
-◻️ On the Add policy page, in Identifier, enter ***BLOB-read-list***, and then in Permissions, select **Read** and **List**.
+◻️ On the Add policy page, in Identifier, enter ***🆃 BLOB-read-list***, and then in Permissions, select **Read** and **List**.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Create-and-manage-a-SAS-key/assets/172988970/06633d98-653e-4596-9009-e0726daa29d3" height="70%" width="70%" alt="9"/><br />
 <br>
 
 <br>
 
-◻️ In Start time, select the current date, and then ensure that the time value is set to ***12:00:00 AM***.
+◻️ In Start time, select the current date, and then ensure that the time value is set to ***🆃 12:00:00 AM***.
 
 <br>
 
-◻️ In Expiry time, select tomorrow’s date, ensure that the time value is set to ***12:00:00 AM***, and then select **OK**.
+◻️ In Expiry time, select tomorrow’s date, ensure that the time value is set to ***🆃 12:00:00 AM***, and then select **OK**.
 
 <br>
 
