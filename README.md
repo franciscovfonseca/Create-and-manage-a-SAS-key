@@ -11,7 +11,7 @@
 <h1> Create and Manage a SAS Key</h1>
 <br>
 
-In this exercise, you will **Generate a Shared Access Signature (SAS) Key** and an **Access Policy**.
+In this lab, you will **Generate a Shared Access Signature (SAS) Key** and an **Access Policy**.
 
 1. First, you will **Create a Storage Account and a Container**, and then you will **Upload a Blob File to the Container**.
 
